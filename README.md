@@ -1,5 +1,5 @@
 # Raspberry-Pi-SH1106-oled-display
-Basic python3 script to display an image on SH1106 128 by 64 Oled monochrome display
+Basic python3 script to display an image using SPI on SH1106 128 by 64 monochrome Oled display.
 (can be adapted to python 2.x)
 
 Works on a Raspberry Pi 2 Model B Revision 1.1 1GB, 
