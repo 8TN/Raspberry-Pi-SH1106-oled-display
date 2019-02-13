@@ -15,7 +15,9 @@ note also that the picture is black and white converted.
 Loading the display is quite fast (screen refresh rate is no visible,few msec) when using 1 MHz SPI clock speed.
 It becomes much more visible if you use lower clock speed:
   - try to change the line "spi.max_speed_hz = 1000000"
+  
   to
+  
   - "spi.max_speed_hz = 7629"
 
 What takes time is to prepare the display data from the input file (about 200 msec). 
