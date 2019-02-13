@@ -17,4 +17,5 @@ It becomes much more visible if you use lower clock speed:
   - try to change the line "spi.max_speed_hz = 1000000"
   to
   - "spi.max_speed_hz = 7629"
-What takes time is to prepare the display data from the input file. 
+
+What takes time is to prepare the display data from the input file (about 200 msec). 
