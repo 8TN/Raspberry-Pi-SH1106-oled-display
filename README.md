@@ -21,3 +21,5 @@ It becomes much more visible if you use lower clock speed:
   - "spi.max_speed_hz = 7629"
 
 What takes time is to prepare the display data from the input file (about 200 msec). 
+
+result can be seen at the end of this video : https://www.youtube.com/watch?v=bj6awnta67Y
